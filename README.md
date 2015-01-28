@@ -2,7 +2,7 @@ MarionetteJS + RequireJS + Twitter Bootstrap + Grunt + Bower
 =============================================================
 Let's start the dance! This boilerplate is a ready setup for starting your next awesome javascript app in minutes.
 
-This setup includes bower references to latest versions of -
+This setup includes references to latest versions of -
 
 * BackboneJS
 * MarionetteJS 
