@@ -1,18 +1,19 @@
-MarionetteJS + RequireJS + Twitter Bootstrap
+MarionetteJS + RequireJS + Twitter Bootstrap + Grunt + Bower
 =============================================================
 Let's start the dance! This boilerplate is a ready setup for starting your next awesome javascript app in minutes.
 
-This setup includes -
+This setup includes bower references to latest versions of -
 
 * BackboneJS
 * MarionetteJS 
 * RequireJS (AMD)
-* Twitter Bootstrap (3.1.1)
-
-Here is a [live demo, using original marionette.js 1.0.4](http://ajaxray.com/demo/marionette-boilerplate) of this setup.
+* Twitter Bootstrap
+* Grunt
+* Bower
 
 **Quick start**
 
 	clone this repo
-	cd marionette-boilerplate
-	bower install
+	cd marionette-requirejs-bootstrap-grunt-boilerplate-example
+	bower install ( non-optimized app can now be accessed in app directory )
+	grunt ( generates optimized version in dist/www directory )
